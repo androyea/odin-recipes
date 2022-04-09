@@ -1,0 +1,53 @@
+.naslov {
+    font-size: 70px;
+    color: rgb(5, 94, 64);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+.slika {
+    height: auto;
+    width: 330px;
+    text-align: center;
+}
+
+.naslov2 {
+    color: rgb(5, 94, 64);
+    background-color: bisque;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.objasnjenje {
+    color:green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+}
+
+.sastojci {
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lista1 {
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.koraci {
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lista2 {
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: left;
+}
+
+.sta {
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

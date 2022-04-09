@@ -1,0 +1,15 @@
+.naslov {
+    color: brown;
+    font-size: 65px;
+    background-color: rgb(149, 202, 149);
+    font-family: monospace;
+    text-align: center;
+}
+
+.cls {
+    color: lightgreen;
+    font-size: 33px;
+    background-color: bisque;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
